@@ -1,2 +1,0 @@
-This is file2 created in BRANCH2.
-This file will be merged into the main branch.
